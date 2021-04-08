@@ -38,7 +38,7 @@ At the beginning of each player's turn, if any of the win conditions are reached
 ## Teams
 The playing piece is the Team. There are four types: Infantry, Gun, Vehicle and Aircraft teams.
 
-Infantry and Gun teams, and some Vehicles are based in one of three standard base sizes:
+Infantry and Gun teams, and some Vehicles are based on one of three standard base sizes:
 · Small: 1"/25mm long by 1¼"/32mm wide
 · Medium: 1¼"/32mm long by 2"/50mm wide
 · Large: 2½"/ 65mm long by 2"/50mm wide
@@ -103,7 +103,7 @@ Warriors can be any type of Team. While some are infantrymen, others are tank co
 
 
 ## Units
-Your Teams are grouped into Units, platoons in most cases, but sometimes companies, typically of three to ten tanks or 30 to 100 infantrymen. In battle a Unit usually operates as one, manoeuvring across the battlefield together and engaging the same foes.
+Teams are grouped into Units, platoons in most cases, but sometimes companies, typically of three to ten tanks or 30 to 100 infantrymen. In battle a Unit usually operates as one, manoeuvring across the battlefield together and engaging the same foes.
 
 Each Unit has a **Unit Command** team. In the case of Infantry, Gun and Artillery units, the Command Team is a Small Infantry Team. In Tank and Transport units, the Unit Command Team is one of the Vehicles in the Unit. If the Unit Command team is destroyed, and no replacement is available, the Unit becomes Out of Command. This is explained further in the Command section of this book.
 
