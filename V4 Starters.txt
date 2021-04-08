@@ -1,0 +1,213 @@
+Hit the Beach [FWBX09] 42£/47€/60$
+Contents:
+ American
+- 8x M4A1 Sherman
+- 3x M4A1(76) Upgrade Sprue
+- 1x US Parachute Rifle Platoon
+ German
+- 1x Grenadier HQ (2x Panzerfaust SMG, 2x Panzerschreck)
+- 2x Grenadier Platoon w/ Optional Panzerfaust
+- 3x Panzer IV
+
+American List:
+- Vet. M4 Sherman Tank Company HQ - 2x M4 Sherman (75mm) (9 pts)
+- Vet. M4 Sherman Tank Platoon - 3x M4 Sherman (75mm) (13 pts)
+- Vet. M4 Sherman (76mm) Tank Platoon - 3x M4 Sherman (76mm) (16 pts)
+- Parachute Rifle Platoon - Full Strength (14 pts)
+52 pts total
+
+German List:
+- Panzergrenadier Company HQ - 2x MP40 SMG w/ Panzerfaust(2 pts)
+- Panzergrenadier Platoon - Full Strength w/ Panzerfaust, 1x Panzerschreck (13 pts)
+- Panzergrenadier Platoon - Full Strength w/ Panzerfaust, 1x Panzerschreck (13 pts)
+- Panzer IV Tank Platoon - 3x Panzer IV (7.5cm) (16 pts)
+44 pts total
+
+US Combat Command [USAB10]  80£/78.5€/110$
+Contents:
+- 5x M4A1 Sherman
+- 3x M4A1(76) Upgrade Sprue
+- 3x M5 Stuart
+- 5x M3 Halftrack
+- 4x M10 GMC
+- 3x M7 Priest
+- 2x US Rifle Command Sprue
+- 2x US Rifle Sprue
+
+List:
+- Vet. M4 Sherman Tank Company HQ - 2x M4 Sherman (75mm) (9 pts)
+- Vet. M4 Sherman (76mm) Tank Platoon - 3x M4 Sherman (76mm) (16 pts)
+- Vet. M5 Stuart Tank Platoon - 3x M5 Stuart (37mm) (7 pts)
+- Vet. Armored Rifle Platoon - Full Strength (19 pts)
+- M10 3-inch Tank Destroyer Platoon - 4x M10 (3-inch) (18 pts)
+- M7 Priest Artillery Battery - 3x M7 Priest (105mm) (8 pts)
+
+77 total
+
+
+GER Panzer Kampfgruppe [GEAB18]  80£/78.5€/110$
+Contents:
+- 5x Panzer IV
+- 2x Tiger
+- 4x Sd Kfz 251 Half-tracks
+- 3x StuG
+- 3x 15cm Nebelwerfer
+- 2x 8.8cm Flak
+- 3x German Grenadier Command Sprue
+- 2x German Grenadier Sprue
+
+List:
+- Panzer IV Tank Company HQ - 2x Panzer IV (7.5cm) (11 pts)
+- Panzer IV Tank Platoon - 3x Panzer IV (7.5cm) (16 pts)
+- Tiger Tank Platoon - 2x Tiger (8.8cm) (24 pts)
+- StuG Assault Gun Platoon - 3x StuG (7.5cm) (17 pts)
+- Armoured Panzergrenadier Platoon - Full Strength (12 pts)
+- 8.8cm Heavy AA Platoon - 2x 8.8cm AA gun (6 pts)
+- 15cm Nebelwerfer Battery - 3x 15cm Nebelwerfer (9 pts)
+
+95 total
+
+
+GER Waffen-SS Panther Kampfgruppe [GEAB19]  80£/78.5€/110$
+Contents:
+- 5x Panther
+- 2x Tiger
+- 2x Sd Kfz 234
+- 8x Sd Kfz 250
+- 2x Sd Kfz 250 Upgrade Sprues
+- 2x 8.8cm PaK43
+- 1x SS-Aufklarungs Platoon
+
+List:
+- Panther SS Tank Company HQ - 2x Panther (7.5cm) (20 pts)
+- Panther SS Tank Platoon - 3x Panther (7.5cm) (26 pts)
+- Tiger SS Tank Platoon - 2x Tiger (8.8cm) (25 pts)
+- SS Reconnaissance Platoon - Full Strength (9 pts)
+- 8.8cm Tank-Hunter Platoon - 2x 8.8cm gun (9 pts)
+- Puma SS Scout Troop - 2x Puma (5cm) (4 pts)
+- Sd Kfz 250 SS Scout Troop - Sd Kfz 250 (MG), 2x Sd Kfz 250/9 (2cm) (2 pts)
+
+95 pts total
+
+
+GER Tank-Hunter Kampfgruppe [GEAB20]  80£/78.5€/110$
+Contents:
+- 5x Panzer IV/70
+- 3x Marder/Hetzer
+- 4x Sd Kfz 251
+- 2x Wirbelwind/Ostwind
+- 2x 8.8cm FlaK
+- 4x 10.5cm leFH 18
+- 1x German Grenadier Command Sprue
+- 2x German Grenadier Sprue
+
+List:
+- Panzer IV/70 Tank Company HQ - 2x Panzer IV/70 (7.5cm) (18 pts)
+- Panzer IV/70 Tank Platoon - 3x Panzer IV/70 (7.5cm) (27 pts)
+- Armoured Panzergrenadier Platoon - Full Strength w/ Panzerschreck (16 pts)
+- Wirbelwind AA Tank Platoon - 2x Wirbelwind (Quad 2cm) (4 pts)
+- Hetzer Tank-Hunter Platoon - 3x Hetzer (7.5cm) (13 pts)
+- 8.8cm Heavy AA Platoon - 2x 8.8cm AA gun (6 pts)
+- 10.5cm Artillery Battery - 4x 10.5cm howitzer (14 pts)
+98 pts total
+
+
+UK Armoured Battlegroup [BRAB12]  80£/78.5€/110$
+Contents:
+- 5x Sherman V
+- 3x Stuart
+- 3x Churchill
+- 4x M10 GMC
+- 4x 25pdr
+- 3x Universal Carriers
+- 2x British Rifle Sprue
+
+Total:
+- Sherman Armoured Squadron HQ - 2x Sherman (76mm) (8 pts)
+- Sherman Armoured Troop - 2x Sherman (76mm), Firefly (17pdr) (13 pts)
+- Stuart Recce Patrol - 4x Stuart (37mm) (6 pts)
+- Italy Churchill Armoured Troop - 3x Churchill (6 pdr) (12 pts)
+- M10 SP Anti-Tank Platoon - 4x M10 (17pdr) (18 pts)
+- 25pdr Field Troop - 4x 25pdr gun (14 pts)
+- Universal Carrier Patrol - 3x Universal Carriers (MG) (2 pts)
+- Rifle Platoon - Full Strength (10 pts)
+83 pts total
+
+
+UK Desert Rats Squadron [BRAB13]  80£/78.5€/110$
+Contents:
+- 5x Cromwell
+- 2x Sherman V
+- 3x Churchill
+- 4x Stuart
+- 2x M10 GMC
+- 3x Universal Carriers
+- 4x 25 pdr Guns
+- 1x British Paratrooper Platoon
+
+List: 
+- Cromwell Armoured Squadron HQ - 1x Cromwell (75mm) (5 pts)
+- Cromwell Armoured Troop - 2x Cromwell (75mm), Firefly (17pdr) (13 pts)
+- Cromwell Armoured Troop - 2x Cromwell (75mm), Firefly (17pdr) (13 pts)
+- Stuart Recce Patrol - 4x Stuart (37mm) (8 pts)
+- Parachute Platoon - Full Strength w/ extra PIAT (11 pts)
+- Universal Carrier Patrol - 3x Universal Carriers (MG) (2 pts)
+- M10 SP Anti-Tank Troop - 2x M10 (17pdr) (9 pts)
+- Crocodile Flame-Tank Platoon - 3x Crocodile (75mm & Flame-thrower) (21 pts)
+- 25pdr Field Troop- 4x 25pdr gun (14 pts)
+96 pts total
+
+
+SOV Tank Shock Group [SUAB11]  80£/78.5€/110$
+Contents:
+- 6x T-34
+- 5x T-70
+- 3x KV-1
+- 3x SU-85
+- 4x Katyusha
+
+Points:
+- T-34 Tank Battalion HQ - T-34 (76mm) (3 pts)
+- T-34 Tank Company - 5x T-34 (76mm) (30 pts)
+- T-70 Tank Company - 5x T-70 (5 pts)
+- KV-1 Guards Heavy Tank Company - 3x KV-1 (20 pts)
+- SU-85 Tank-Killer Battery - 3x SU-85 (85mm) (17 pts)
+- Katyusha Guards Rocket Battery - 4x Katyusha (8 pts)
+83 pts total
+
+
+SOV T-34 Tank Battalion [SUAB12]  80£/78.5€/110$
+Contents:
+- 21x T-34
+
+List:
+- T-34 Tank Battalion HQ - T-34 (76mm) (3 pts)
+- T-34 Tank Company - 10x T-34 (76mm) (30 pts)
+- T-34 Tank Company - 10x T-34 (76mm) (30 pts)
+63 pts total
+
+Alt. List:
+- T-34 Tank Battalion HQ - T-34 (85mm) (5pts)
+- T-34 Tank Company - 10x T-34 (85mm) (43 pts)
+- T-34 Tank Company - 10x T-34 (85mm) (43 pts)
+91 pts total
+
+
+SOV Heavy Assault Group [SUAB13]  80£/78.5€/110$
+Contents:
+- 4x IS-2
+- 4x ISU-122/152
+- 4x SU-76
+- 3x BA-64
+- 4x ZiS-2/3
+- 2x Soviet Rifle Sprue
+
+List:
+Heavy SP Artillery Regiment HQ - 1x IS-2 (122mm) (7 pts)
+ISU-122 Heavy SP Battery - ISU-122 (122mm) (13 pts)
+ISU-152 Heavy SP Battery - ISU-152 (152mm) (15 pts)
+IS-2 Guards Heavy Tank Company - 3x IS-2 (122mm) (22 pts)
+Hero Shock Rifle Company - Half Strength w/ 2x Maksim HMG (10 pts)
+SU-76 Light SP Battery - 4x SU-76 (76mm) (10 pts)
+BA-64 Armoured Car Platoon - 3x BA-64 (MG) (2 pts)
+Heavy Tank-Killer Company - 4x 10 pts or 12 pts
