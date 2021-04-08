@@ -22,9 +22,19 @@
 
 # Playing Flames Of War
 ## What You Need
-## How It Works
+To play Flames of War, you need two armies, usually at or under a previously agreed points level, a table with terrain, a ruler and some dice. You will also probably want some tokens to track status effects, and a set of objectives for each player, at least one Bombardment Template, and some Smoke Markers, though you can use pieces of paper cut to the right shape and properly marked.
 
-# Teams and Units
+## How It Works
+Before the battle, both players agree on the points level, and the size of the battlefield. There are some guidelines on choosing the right size, but the players are free to agree to change the size. They then both build their Army List, keeping these constraints in mind.
+
+When both players have built their Army, they Select the Mission, setup the Battlefield, determine the Initiative and Deploy their forces according to the Mission setup.
+
+After setup and deployment, both players will each take turns. Each player's turn is divided into the Command, Movement, Shooting and Assault phases.
+
+## How To Win
+At the beginning of each player's turn, if any of the win conditions are reached, the player that achieved them wins. These are either mission specific (taking an objective, mission ends after x turn), or if the other player's Primary Formation fails its Formation Morale Test.
+
+# Basic Definitions
 ## Teams
 The playing piece is the Team. There are four types: Infantry, Gun, Vehicle and Aircraft teams.
 
@@ -59,7 +69,7 @@ Infantry Teams are mounted on bases. The size of base and number of miniatures o
 · Motorcycles and Bicycles:  Motorcycle and Bicycle Teams are based and dismount like Cavalry Teams.
 
 ### Gun Teams
-Gun Teams are weapons intended to fight the enemy at a distance, such as heavy machine-guns, mortars, Anti-Tank guns, Anti-Aircraft guns, rockets, and artillery. Since Gun Teams dont have armour their arsenal entries only have weapons lines with an extra column for their mobility.
+A Gun Team represents a single crew-served weapon, from a light machine-gun or a medium mortar, to a 155mm field howitzer. Since Gun Teams dont have armour their arsenal entries only have weapons lines with an extra column for their mobility.
 
 Each Gun Team is mounted on a base to keep the gun and crew together. The size of the base depends on the size of the weapon and its crew as shown in the Intelligence Briefing.
 · Man-Packed Gun Teams: Man-packed Gun Teams such as HMG and Medium Mortar Teams have a medium base and face the long edge.
@@ -68,67 +78,65 @@ Each Gun Team is mounted on a base to keep the gun and crew together. The size o
 · Large Gun Teams: All Gun Teams with five or more crew have a large base and face the short edge.
 · Teams that don't fit: If a Team cannot easily fit on the normal base you might need to rotate the base so they face the short edge or use a larger base. Some Gun Teams have particularly large crews, making it easier to mount some of the crew on an additional medium base. Any extra bases like this are ignored during play.
 
-### Vehicles
+### Vehicle Teams
 Vehicle Teams represent a single vehicle that is usually part of a larger Unit.
 
-· Armoured Vehicles: Armoured Vehicles are any vehicles with armour ratings other than '-'.
-· Unarmored Vehicles: Unarmoured vehicles have no armour protection, and are distinguished by having an armour rating of '-' instead of a number.
+Vehicle teams can be either Armoured or Unarmoured:
+· **Unarmoured** vehicles have no armour protection, and are distinguished by having an armour rating of '-' instead of a number.
+· **Armoured** vehicles are any vehicles with armour ratings other than '-'.
 
-· Tank Teams: Tank Teams are vehicles whose primary purpose is to shoot the enemy.
-· Transport Teams:  Transport Teams are vehicles whose primary purpose is moving other Teams around the battlefield, including armoured half-tracks, trucks and jeeps. Supply, pioneer and demolition carriers, and recovery vehicles are also Transport Teams.
+Additionally, Vehicle Teams can be either Tanks or Transports:
+· **Tank** teams are vehicles whose primary purpose is to shoot the enemy. They are usually, but not always, armed with a main gun.
+· **Transport** teams are vehicles whose primary purpose is moving other Teams around the battlefield, including armoured half-tracks, trucks and jeeps. Supply, pioneer and demolition carriers, and recovery vehicles are also Transport teams, even thought they don't carry passengers.
 
-· Vehicle Basing: Vehicles are not normally mounted on bases in Flames Of War, although some vehicles are cast with a base. You can base other vehicles too if you want, but bases on vehicles have no effect on the game. Some self-propelled artillery pieces don't have room on the vehicle for the entire crew. You can either model these on a large base containing both the vehicle and crew, or model the loading crew on a sepparate base.
-
-
-### Aircraft Teams
+Vehicles are not normally mounted on bases in Flames Of War, although some vehicles are cast with a base. You can base other vehicles too if you want, but bases on vehicles have no effect on the game. Some self-propelled artillery pieces don't have room on the vehicle for the entire crew. You can either model these on a large base containing both the vehicle and crew, or model the loading crew on a sepparate base.
 
 ### Command and Warrior Teams
-· Command Teams: Command Teams are usually either Small Infantry Teams or Vehicle Teams. In order of rank the four types of Command Teams are: Higher Command Teams, Formation Command Teams, 2iC (Second in Command) Teams, and Unit Command Teams.
+**Command** teams are usually either Small Infantry Teams or Vehicle Teams. In order of rank the four types of Command Teams are: Higher Command Teams, Formation Command Teams, 2iC (Second in Command) Teams, and Unit Command Teams. The way Command teams work in the battlefield is explained in the Command section.
 
-· Warrior Teams: Warriors are outstanding soldiers who perform amazing feats. Wether their actions are heroic fights against the odds or inspiring leadership in desperate situations these warriors can change the outcome of battles by their strengrh of will and personal courage.
+**Independent** teams are not part of any Unit, and are free to move around the battlefield at will. Senior commanders, artillery observers, snipers and a few others are Independent teams.
+
+**Warrior** teams represent outstanding soldiers who perform amazing feats. ether their actions are heroic fights against the odds or inspiring leadership in desperate situations these warriors can change the outcome of battles by their strengrh of will and personal courage.
 Warriors can be any type of Team. While some are infantrymen, others are tank commanders, and some are even generals travelling in their transport vehicle. Each Warrior Team is unique. There can only be one each particular Warrior in any Force.
 
-· Independent Teams: Senior commanders and artillery observers follow the flow of the battle moving where they are needed. These soldiers are known as Independent Teams and are free to move about the battlefield at will.
+### Aircraft Teams
 
 
 ## Units
 Your Teams are grouped into Units, platoons in most cases, but sometimes companies, typically of three to ten tanks or 30 to 100 infantrymen. In battle a Unit usually operates as one, manoeuvring across the battlefield together and engaging the same foes.
 
-· Unit Command: Each Unit has a Unit Command Team. In the case of Infantry Units, the Command Team is a Small Infantry Team. In Tank, Transport and Gun Units, the Unit Command Team is one of the Vehicle or Gun Teams in the Unit.
-· Combat Attachments: At the beginning of the game before Deployment, Units that can make Combat Attachments may permanently Join another unit. If a Unit does so, the Unit's Command Team is removed from the game, and the remainder of the Unit becomes part of the Unit it is making the Command Attachment to.
-· Transports: Transport Teams are Vehicle Teams meant specifically to transport other Teams. They are usually unarmed, may be Sent to the Rear and Brought Forward, and do not count towards Unit Morale.
-· Loss of Unit Command TeamIf the Unit's Command Team is destroyed, and there it isn't Joined by a Formation Command Team, the Unit immediately becomes Out Of Command.
+Each Unit has a **Unit Command** team. In the case of Infantry, Gun and Artillery units, the Command Team is a Small Infantry Team. In Tank and Transport units, the Unit Command Team is one of the Vehicles in the Unit. If the Unit Command team is destroyed, and no replacement is available, the Unit becomes Out of Command. This is explained further in the Command section of this book.
 
+There are five types of Units (Infantry, Gun, Artillery, Tank and Tranport). Each one is composed mainly of its respective team. On the battlefield, they work mostly the same, though there are a few exceptions. These are explained in the relevant sections of this book.
+
+At the beginning of the game before Deployment, Units that can make **Combat Attachments** may permanently join another unit. If a Unit does so, the Unit's Command Team is removed from the game, and the remaining teams become part of the Unit it is making the Combat Attachment to.
 
 ## Formations
-Units are gathered together into Formations, companies in most cases, but sometimes battalions. A Formation contains a number of Combat and Weapons Units, along with Support Units of heavy weapons, scouts, and other troops to back them up.
+Units are gathered together into Formations, companies in most cases, but sometimes battalions. A Formation contains a number of Combat and Weapons Units. When you build a Force, you will always have one Primary Formation, and may have one or more Support Formations.
 
-When you build a Force, you will always have one Primary Formation, and may have one or more Support Formations.
+Each Formation is led by a Formation Command team (CiC) and usually, but not always, a Second in Command team (2iC). The CiC and 2iC Teams may Join units during the game. Once per Phase, a Command team may join a Unit if it is within Command Distance of any of its teams. The effects of this are further explained in the Command section.
 
-· Formation Command: Each Formation is led by a Company Command (CiC) Team and usually, but not always, a Second in Command (2iC) Team. In addition, the Formation Command may include Support Units. These units may either form the Formation Command Unit with the 2iC leading it, or any or all of the Support Units may make Combat Attachments to any other unit within the Formation.
-· Command Leadership: The CiC and 2iC Teams may Join Units during the game. Once per Step, a Formation Command Team may join a Unit if it is within Command Distance of the closest Team.
+Depending on your chosen Formation, you can include Formation Support units. Any or all of these Support units may make Combat Attachments to Combat and Weapons units within the same Formation. Formation Support units that did not Join another unit will automatically join the 2iC, forming a new unit.
 
+## Ratings and Rolling Tests
+Ratings represent the overall combat capabilities of a Team, Unit or Formation. When a Unit must perform a task, such as Digging In or fighting in an Assault, the Unit must perform a Test. Additionally, the enemy uses the To Hit Rating of the Unit to determine the dice roll required to hit your Units and Teams.
 
-## Ratings
-The three Ratings represent the overall combat capabilities of a Team, Unit or Formation.
+There are three primary Ratings: Motivation, Skill and To Hit. Sometimes, a Unit can excel at one specific task or set of tasks, without increasing the overall rating. This is shown by the secondary ratings.
 
-When a Unit must perform a task, such as Digging In or fighting in an Assault, the Unit must perform a Test. Additionally, the enemy uses the To Hit Rating of the Unit to determine the dice roll required to hit your Units and Teams.
-Sometimes your troops can also be exceptional at one specific task or set of tasks, without increasing the overall rating.
-
-Motivation Rating: Motivation represents the willingness of your troops to keep fighting when the odds are against them. There are four subtypes of Motivation tests: Rally, Remount, Counterattack, and Unit/Formation Morale. The ratings are:
-- Fearless 3+
-- Confident 4+
+**Motivation** represents the willingness of your troops to keep fighting when the odds are against them. The secondary Motivation ratings are: Rally, Remount, Counterattack, and Unit/Formation Morale (shortened to Morale). The Motivation ratings are:
 - Reluctant 5+
+- Confident 4+
+- Fearless 3+
 
-Skill Rating: Skill represents the ability of your troops to complete certain specific tasks. There are two subtypes of Skill tests: Tactics and Assault. The ratings are:
-- Veteran 3+
-- Trained 4+
+**Skill** represents the ability of your troops to complete certain specific tasks. The secondary Skill ratings are: Tactics and Assault. The Skill ratings are:
 - Conscript 5+
+- Trained 4+
+- Veteran 3+
 
-To Hit Rating: To Hit represents both the ability of your troops to use concealment, cover and other tools such as smoke, and their willingness to ignore these elements and throw themselves openly at the enemy. The ratings are:
-- Careful 4+
-- Agressive 3+
+**To Hit** represents both the ability of your troops to use concealment, cover and other tools such as smoke, and their willingness to ignore these elements and throw themselves openly at the enemy. The ratings are:
 - Reckless 2+
+- Agressive 3+
+- Careful 4+
 
 
 ## Building a Force
