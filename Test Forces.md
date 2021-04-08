@@ -68,93 +68,102 @@ Formation contains:
  · CC and 2iC Cabine, Jeep and M3 half-track w/.50 cal AA MG - ? pts
 
 **Armored Rifle Platoon**
- Plt Cmd Rifle, Rifle, 3x Bazooka, 2x M3 half-track w/ .50 cal AA MG and M3 half-track w/ AA MG with:
- · 4x Rifle and 2x M3 half-track w/ AA MG 	- ? pts
- · 2x Rifle and M3 half-track w/ AA MG 		- ? pts
 
- Options:
- - Replace one Bazooka with a M3 37mm gun at no cost
- - Replace any or all AA MG with .50 cal AA MG at 1 pt each
+	Plt Cmd Rifle, Rifle, 3x Bazooka, 2x M3 half-track w/ .50 cal AA MG and M3 half-track w/ AA MG with:
+	· 4x Rifle and 2x M3 half-track w/ AA MG 	- ? pts
+	· 2x Rifle and M3 half-track w/ AA MG 		- ? pts
+
+	Options:
+	- Replace one Bazooka with a M3 37mm gun at no cost
+	- Replace any or all AA MG with .50 cal AA MG at 1 pt each
 
 **Armored Anti-tank Platoon**
- Plt Cmd Carbine and Jeep with:
- · 3x M1 57mm gun and 3x M3 half-track w/ .50 cal AA MG - ? pts
- · 2x M1 57mm gun and 2x M3 half-track w/ .50 cal AA MG - ? pts
 
- Options:
- · Add up to one Bazooka per gun for 3 pts each
+	Plt Cmd Carbine and Jeep with:
+	· 3x M1 57mm gun and 3x M3 half-track w/ .50 cal AA MG - ? pts
+	· 2x M1 57mm gun and 2x M3 half-track w/ .50 cal AA MG - ? pts
+
+	Options:
+	· Add up to one Bazooka per gun for 3 pts each
 
 **Recon Platoon**
- Plt Cmd Rifle and M2 half-track w/ .50 cal AA MG
- · 2x Rifle and 2x Jeep - ? pts
- · Rifle and Jeep 		- ? pts
 
- Options:
- - Add a Bazooka for 3 pts
- - Arm any or all Jeeps with an AA MG for 1 pt each
+	Plt Cmd Rifle and M2 half-track w/ .50 cal AA MG
+	· 2x Rifle and 2x Jeep - ? pts
+	· Rifle and Jeep 		- ? pts
 
- Notes:
- - Recon Platoons are Recce Units.
+	Options:
+	- Add a Bazooka for 3 pts
+	- Arm any or all Jeeps with an AA MG for 1 pt each
+
+	Notes:
+	- Recon Platoons are Recce Units.
 
 **Armored Machine-Gun Platoon**
- Plt Cmd Carbine with:
- · 4x M1917 HMG - ? pts
- · 2x M1917 HMG - ? pts
 
- Options:
- -
- -
+	Plt Cmd Carbine with:
+	· 4x M1917 HMG - ? pts
+	· 2x M1917 HMG - ? pts
 
- Notes:
- - Armored Machine-Gun Platoons may make Combat attachments to Combat Units within the same Formation
+	Options:
+	-
+	-
+
+	Notes:
+	- Armored Machine-Gun Platoons may make Combat attachments to Combat Units within the same Formation
 
 **Armored Assault Gun Platoon**
- · 3 M8 Scott HMC - ? pts
- · 2 M8 Scott HMC - ? pts
+
+	· 3 M8 Scott HMC - ? pts
+	· 2 M8 Scott HMC - ? pts
 
 
 ## US Rifle Company - Infantry Formation - Confident Conscript Agressive
 Formation contains:
 
- Combat Units:
- · 2-3 Rifle Platoon
- · 0-1 Wepons Platoon
- Weapons Units:
- · 0-2 Machine-Gun Platoon
- · 0-1 Mortar Platoon
- · 0-2 Anti-tank Platoon
+	Combat Units:
+	· 2-3 Rifle Platoon
+	· 0-1 Wepons Platoon
+	Weapons Units:
+	· 0-2 Machine-Gun Platoon
+	· 0-1 Mortar Platoon
+	· 0-2 Anti-tank Platoon
 
 
-Rifle Company HQ
- · CC and 2iC Cabine - ? pts
+**Rifle Company HQ**
 
- Option:
- - Add up to two Bazookas for 3 pts each
+	· CC and 2iC Cabine - ? pts
 
-Rifle Platoon
- Plt Cmd Rifle and Bazooka with:
- · 9x Rifle - ? pts
- · 6x Rifle - ? pts
+	Option:
+	- Add up to two Bazookas for 3 pts each
 
-Weapons Platoon
- Plt Cmd Carbine and 3x M2 60mm mortar with:
- · 4 M1919 LMG - ? pts
- · 2 M1919 LMG - ? pts
+**Rifle Platoon**
 
- Option:
- - Add a Jeep w/ .50 cal AA MG for 1 pt
+	Plt Cmd Rifle and Bazooka with:
+	· 9x Rifle - ? pts
+	· 6x Rifle - ? pts
 
- Notes:
- - Weapons Platoons may make Combat attachments to Combat Units within the same Formation
+**Weapons Platoon**
 
-Machine-Gun Platoon
- Plt Cmd Carbine with:
- · 4x M1917 HMG - ? pts
- · 2x M1917 HMG - ? pts
+	Plt Cmd Carbine and 3x M2 60mm mortar with:
+	· 4 M1919 LMG - ? pts
+	· 2 M1919 LMG - ? pts
 
- Options:
- - Add a Bazooka for each 2 guns for 3 pts each
- -
+	Option:
+	- Add a Jeep w/ .50 cal AA MG for 1 pt
+
+	Notes:
+	- Weapons Platoons may make Combat attachments to Combat Units within the same Formation
+
+**Machine-Gun Platoon**
+
+	Plt Cmd Carbine with:
+	· 4x M1917 HMG - ? pts
+	· 2x M1917 HMG - ? pts
+
+	Options:
+	- Add a Bazooka for each 2 guns for 3 pts each
+	-
 
 
 ## GER Panzerkompanie - Tank Formation - 
